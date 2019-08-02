@@ -1,0 +1,7 @@
+H:\ListsMaleFemale\ListsMaleFemale\obj\Debug\ListsMaleFemale.csprojAssemblyReference.cache
+H:\ListsMaleFemale\ListsMaleFemale\obj\Debug\ListsMaleFemale.csproj.CoreCompileInputs.cache
+H:\ListsMaleFemale\ListsMaleFemale\bin\Debug\ListsMaleFemale.exe.config
+H:\ListsMaleFemale\ListsMaleFemale\bin\Debug\ListsMaleFemale.exe
+H:\ListsMaleFemale\ListsMaleFemale\bin\Debug\ListsMaleFemale.pdb
+H:\ListsMaleFemale\ListsMaleFemale\obj\Debug\ListsMaleFemale.exe
+H:\ListsMaleFemale\ListsMaleFemale\obj\Debug\ListsMaleFemale.pdb
