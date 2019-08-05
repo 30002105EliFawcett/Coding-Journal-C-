@@ -1,0 +1,7 @@
+H:\Stacks and Queues\Stacks and Queues\bin\Debug\Stacks and Queues.exe.config
+H:\Stacks and Queues\Stacks and Queues\bin\Debug\Stacks and Queues.exe
+H:\Stacks and Queues\Stacks and Queues\bin\Debug\Stacks and Queues.pdb
+H:\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.csprojAssemblyReference.cache
+H:\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.csproj.CoreCompileInputs.cache
+H:\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.exe
+H:\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.pdb

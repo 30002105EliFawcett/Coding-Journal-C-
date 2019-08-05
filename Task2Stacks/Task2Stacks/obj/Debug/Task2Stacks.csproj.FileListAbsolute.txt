@@ -1,0 +1,6 @@
+H:\Task2Stacks\Task2Stacks\bin\Debug\Task2Stacks.exe.config
+H:\Task2Stacks\Task2Stacks\bin\Debug\Task2Stacks.exe
+H:\Task2Stacks\Task2Stacks\bin\Debug\Task2Stacks.pdb
+H:\Task2Stacks\Task2Stacks\obj\Debug\Task2Stacks.csproj.CoreCompileInputs.cache
+H:\Task2Stacks\Task2Stacks\obj\Debug\Task2Stacks.exe
+H:\Task2Stacks\Task2Stacks\obj\Debug\Task2Stacks.pdb
