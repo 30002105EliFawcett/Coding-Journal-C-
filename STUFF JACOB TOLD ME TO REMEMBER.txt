@@ -1,0 +1,19 @@
+
+/*Method to find the min*/
+static int FindMin(int[] arr)
+	{
+		/*Set the initial min*/
+		int min = arr[0];
+		/*Check every subsequent number to see if its lower than the current number*/
+		for(int i = 1; i < arr.Length; i++)
+		{
+			/*If the current number is lower, make min equal to the current number*/
+			if(arr[i] < min)
+				min = arr[i];
+		}
+		/*Return the lowest number in the collection*/
+		return min;
+	}
+}
+
+
